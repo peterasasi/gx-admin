@@ -15,7 +15,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "dotenv-webpack": "^1.7.0",
     "element-ui": "^2.11.0",
     "fingerprintjs2": "^1.8.6",
